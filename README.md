@@ -1,4 +1,4 @@
-# MarchMadnessAnalytics
+# MarchMadnessAnalytics - Minneapolis Blakers Repo
 
 Here is the repo for the March Madness MinneAnalytics competition
 
@@ -29,5 +29,7 @@ Additionally, we would also perform a feature analysis on the input "over expect
 * DM on twitter [@JHamptAnalytics](https://twitter.com/JHamptAnalytics)
 
 ## Results
-* After Round 1: 
-* After Round 2:
+* After Round 1: In first place! 
+![](https://github.com/JCHampton/MarchMadnessAnalytics/blob/main/MarchMadness/Round1Results.png)
+* After Round 2: In first place! 
+![](https://github.com/JCHampton/MarchMadnessAnalytics/blob/main/MarchMadness/Round2Results.png)

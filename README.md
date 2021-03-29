@@ -42,12 +42,12 @@ In the MinneAnalytics Sweet 16 challenge, everyone redid their brackets starting
 The organizers allowed every team to make two brackets as long as they still supported each with some methodology.
 
 For bracket #1, we just used the same model/simulation as before and the bracket can be seen here
-![]()
+![](https://github.com/JCHampton/MarchMadnessAnalytics/blob/main/MarchMadness/Sweet16ChallengeBracket1.PNG)
 
 For bracket #2, we just picked all of the favorites in the games. The only underdog we picked was UCLA over Alabama.
-![]()
+![](https://github.com/JCHampton/MarchMadnessAnalytics/blob/main/MarchMadness/Sweet16ChallengeBracket2.PNG)
 
 ## Sweet 16 Challenge Results
 
-* After the Sweet 16: In first place! 
+* After the Sweet 16: In first place with bracket #2! Bracket #1 was 31 out of 38 teams
 ![](https://github.com/JCHampton/MarchMadnessAnalytics/blob/main/MarchMadness/Sweet16ChallengeRound3Results.PNG)

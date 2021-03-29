@@ -21,6 +21,10 @@ Additionally, we would also perform a feature analysis on the input "over expect
 * [NoSeedsYesOrdsModelPredictions.pdf](https://github.com/JCHampton/MarchMadnessAnalytics/blob/main/MarchMadness/NoSeedsYesOrdsModelPredictions.pdf): Here is the MinneAnalytics Model Predictions
 * [PredictionsNoOrds.csv](https://github.com/JCHampton/MarchMadnessAnalytics/blob/main/MarchMadness/PredictionsNoOrds.csv): Here is the Kaggle Competition Predictions
 
+## Bracket 
+
+![](https://github.com/JCHampton/MarchMadnessAnalytics/blob/main/MarchMadness/MainBracket.png)
+
 ## Team Members
 * Jackson Hampton, Will Bentz, Atef Ali, Blake Andert
 

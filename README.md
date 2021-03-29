@@ -18,12 +18,14 @@ Additionally, we would also perform a feature analysis on the input "over expect
 * [BasicModel.ipynb](https://github.com/JCHampton/MarchMadnessAnalytics/blob/main/MarchMadness/BasicModel.ipynb): This is where we make the models and simulate the tournament. We get our final MinneAnalytics results here
 * [PredictGames.ipynb](https://github.com/JCHampton/MarchMadnessAnalytics/blob/main/MarchMadness/PredictGames.ipynb): This is where we get the csv for the Kaggle competition and can see the individual predictions on who beats whom
 * [EDAforMM.ipynb](https://github.com/JCHampton/MarchMadnessAnalytics/blob/main/MarchMadness/EDAforMM.ipynb): This is where basic EDA was done
-* [NoSeedsYesOrdsModelPredictions.pdf](https://github.com/JCHampton/MarchMadnessAnalytics/blob/main/MarchMadness/NoSeedsYesOrdsModelPredictions.pdf): Here is the MinneAnalytics Model Predictions
+* [NoSeedsYesOrdsModelPredictions.pdf](https://github.com/JCHampton/MarchMadnessAnalytics/blob/main/MarchMadness/NoSeedsYesOrdsModelPredictions.pdf): Here is the MinneAnalytics Model Predictions - picture is also below
 * [PredictionsNoOrds.csv](https://github.com/JCHampton/MarchMadnessAnalytics/blob/main/MarchMadness/PredictionsNoOrds.csv): Here is the Kaggle Competition Predictions
 
 ## Bracket 
 
 ![](https://github.com/JCHampton/MarchMadnessAnalytics/blob/main/MarchMadness/MainBracket.png)
+
+Note: The tiebreaker for combined final score we put as 136 (no model for that)
 
 ## Team Members
 * Jackson Hampton, Will Bentz, Atef Ali, Blake Andert

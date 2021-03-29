@@ -35,3 +35,19 @@ Additionally, we would also perform a feature analysis on the input "over expect
 ![](https://github.com/JCHampton/MarchMadnessAnalytics/blob/main/MarchMadness/Round2Results.png)
 * After Round 3: In first place! 
 ![](https://github.com/JCHampton/MarchMadnessAnalytics/blob/main/MarchMadness/Round3Results.png)
+
+# Sweet 16 Challenge
+
+In the MinneAnalytics Sweet 16 challenge, everyone redid their brackets starting at the sweet 16. 
+The organizers allowed every team to make two brackets as long as they still supported each with some methodology.
+
+For bracket #1, we just used the same model/simulation as before and the bracket can be seen here
+![]()
+
+For bracket #2, we just picked all of the favorites in the games. The only underdog we picked was UCLA over Alabama.
+![]()
+
+## Sweet 16 Challenge Results
+
+* After the Sweet 16: In first place! 
+![](https://github.com/JCHampton/MarchMadnessAnalytics/blob/main/MarchMadness/Sweet16ChallengeRound3Results.png)

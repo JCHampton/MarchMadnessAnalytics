@@ -50,4 +50,4 @@ For bracket #2, we just picked all of the favorites in the games. The only under
 ## Sweet 16 Challenge Results
 
 * After the Sweet 16: In first place! 
-![](https://github.com/JCHampton/MarchMadnessAnalytics/blob/main/MarchMadness/Sweet16ChallengeRound3Results.png)
+![](https://github.com/JCHampton/MarchMadnessAnalytics/blob/main/MarchMadness/Sweet16ChallengeRound3Results.PNG)

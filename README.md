@@ -33,3 +33,5 @@ Additionally, we would also perform a feature analysis on the input "over expect
 ![](https://github.com/JCHampton/MarchMadnessAnalytics/blob/main/MarchMadness/Round1Results.png)
 * After Round 2: In first place! 
 ![](https://github.com/JCHampton/MarchMadnessAnalytics/blob/main/MarchMadness/Round2Results.png)
+* After Round 3: In first place! 
+![](https://github.com/JCHampton/MarchMadnessAnalytics/blob/main/MarchMadness/Round3Results.png)

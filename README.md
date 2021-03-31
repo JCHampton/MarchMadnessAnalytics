@@ -37,15 +37,22 @@ Note: The tiebreaker for combined final score we put as 136 (no model for that)
 ## Results
 * After Round 1: In first place! 
 ![](https://github.com/JCHampton/MarchMadnessAnalytics/blob/main/MarchMadness/Round1Results.png)
+
 * After Round 2: In first place! 
 ![](https://github.com/JCHampton/MarchMadnessAnalytics/blob/main/MarchMadness/Round2Results.png)
+
 * After Round 3: In first place! 
 ![](https://github.com/JCHampton/MarchMadnessAnalytics/blob/main/MarchMadness/Round3Results.png)
+
+* After Round 4: In first place!
+![](https://github.com/JCHampton/MarchMadnessAnalytics/blob/main/MarchMadness/Round4Results.png)
 
 # Sweet 16 Challenge
 
 In the MinneAnalytics Sweet 16 challenge, everyone redid their brackets starting at the sweet 16. 
 The organizers allowed every team to make two brackets as long as they still supported each with some methodology.
+
+## Sweet 16 Challenge Brackets
 
 For bracket #1, we just used the same model/simulation as before and the bracket can be seen here
 ![](https://github.com/JCHampton/MarchMadnessAnalytics/blob/main/MarchMadness/Sweet16ChallengeBracket1.PNG)
@@ -57,3 +64,6 @@ For bracket #2, we just picked all of the favorites in the games. The only under
 
 * After the Sweet 16: In first place with bracket #2! Bracket #1 was 31 out of 38 teams
 ![](https://github.com/JCHampton/MarchMadnessAnalytics/blob/main/MarchMadness/Sweet16ChallengeRound3Results.PNG)
+
+* After the Elite 8: In second place with bracket #2! Bracket #1 was 21 out of 38 teams
+![](https://github.com/JCHampton/MarchMadnessAnalytics/blob/main/MarchMadness/Sweet16ChallengeRound4Results.PNG)

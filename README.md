@@ -47,6 +47,12 @@ Note: The tiebreaker for combined final score we put as 136 (no model for that)
 * After Round 4: In first place!
 ![](https://github.com/JCHampton/MarchMadnessAnalytics/blob/main/MarchMadness/Round4Results.png)
 
+* After Round 5: In third place :(
+![](https://github.com/JCHampton/MarchMadnessAnalytics/blob/main/MarchMadness/Round5Results.png)
+
+* After Round 6: In seventh place :(
+![](https://github.com/JCHampton/MarchMadnessAnalytics/blob/main/MarchMadness/Round6Results.png)
+
 # Sweet 16 Challenge
 
 In the MinneAnalytics Sweet 16 challenge, everyone redid their brackets starting at the sweet 16. 
@@ -67,3 +73,9 @@ For bracket #2, we just picked all of the favorites in the games. The only under
 
 * After the Elite 8: In second place with bracket #2! Bracket #1 was 21 out of 38 teams
 ![](https://github.com/JCHampton/MarchMadnessAnalytics/blob/main/MarchMadness/Sweet16ChallengeRound4Results.PNG)
+
+* After the Final 4: In second place with bracket #2!
+![](https://github.com/JCHampton/MarchMadnessAnalytics/blob/main/MarchMadness/Sweet16ChallengeRound5Results.PNG)
+
+* After the National Title game: In seventh place with bracket #2
+![](https://github.com/JCHampton/MarchMadnessAnalytics/blob/main/MarchMadness/Sweet16ChallengeRound6Results.PNG)
